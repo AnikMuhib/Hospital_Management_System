@@ -3,6 +3,7 @@
 SELECT Resident_PatientID,Patient_LName,CareCenterName,RoomNumber, Bednumber
 From Person_RPatient
 Where CareCenterName = 'URGENT CARE';
+// new business report
 
 --(2)------------------------------------------------------------------------------------------------
 
